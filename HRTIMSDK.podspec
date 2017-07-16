@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = "TIMSDK"
+    s.name         = "HRTIMSDK"
     s.summary      = "Tencent QCloud IM SDK for iOS."
     s.version      = "2.5.6"
     s.license      = { :type => "MIT", :file => "LICENSE" }
